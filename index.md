@@ -4,9 +4,9 @@ layout: default
 
 # Open Second Life
 
-## Infrastructure as a Service(Based on OpenStack)
+## Infrastructure as a Service
 
-### OSLOSTACK
+### OSLOSTACK(Based on OpenStack)
 
 OpenSecondLife OpenStack
 
