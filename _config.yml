@@ -4,3 +4,6 @@ description: >-
 show_downloads: false
 google_analytics: G-PZ8F3E2HZ8
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: "https://github.com/opensecondlife"
